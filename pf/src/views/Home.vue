@@ -15,6 +15,8 @@ import CodeLock from '@/components/CodeLock.vue'
 import Social from '@/components/Social.vue'
 
 
+
+
 export default {
   name: 'Home',
   components: {

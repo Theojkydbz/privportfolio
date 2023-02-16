@@ -59,11 +59,11 @@ input {
   margin: 0 0.5rem;
   padding: 0.5rem;
   border: none;
-  width: 50px;
-  height: 50px;
+  width: 2rem;
+  height: 2rem;
   text-align: center;
-  font-size: 3rem;
-  background: #E3E3DC;
+  font-size: 2rem;
+  background: #F4F4E6;
   border-radius: 14px;
 }
 @keyframes error{

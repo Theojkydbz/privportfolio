@@ -14,8 +14,9 @@
   "devDependencies": {
     "@vue/cli-plugin-pwa": "~4.5.0",
     "@vue/cli-plugin-router": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
-    "vue-template-compiler": "^2.6.11"
+    "@vue/cli-service": "^5.0.8",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "4.24.0"
   },
   "browserslist": [
     "> 1%",
